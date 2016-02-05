@@ -1,0 +1,10 @@
+{
+  "name": "language-make",
+  "version": "0.1.0",
+  "description": "Make language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-make.git"
+  },
+  "license": "MIT"
+}
